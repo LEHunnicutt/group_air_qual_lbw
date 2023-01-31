@@ -1,4 +1,4 @@
-# Project 4: Group Project - AQI and Low Birth Weight
+# Group Project - AQI and Low Birth Weight
 
 <br>
 
